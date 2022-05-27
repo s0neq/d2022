@@ -1,6 +1,8 @@
 Copies with files for FID calculation. 
 
-Scripts assume that ```./generated/``` exists in the same folder and that it contains generated images
+Scripts assume that ```./generated/``` exists in the current directory and that it contains generated images
+
+Each FID result is written to the current directory to a separate CSV file
 
 all copies are meant to be distributed across 3 GPU instances
 
