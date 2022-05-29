@@ -1,0 +1,9 @@
+0,1,FID
+reverse_word_order,word_order_true,84.89
+lemmatized_sent,sent_true,84.929
+root_Tense_past,root_Tense_present,112.927
+root_Tense_future,root_Tense_present,115.558
+root_Mood_imperative,root_Mood_indicative,120.315
+root_Number_reverse,root_Number_true,120.852
+nsubj_Number_reverse,nsubj_Number_true,127.645
+nsubj_Gender_reverse,nsubj_Gender_true,184.08
